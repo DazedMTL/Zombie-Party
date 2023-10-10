@@ -1,0 +1,40 @@
+[
+    null,
+    {
+        "id": 1,
+        "battlerName": "orikyarasaimin1_3",
+        "characterIndex": 6,
+        "characterName": "orikyarakabesiri",
+        "classId": 5,
+        "equips": [0, 0, 0, 6, 0],
+        "faceIndex": 0,
+        "faceName": "touko",
+        "traits": [{ "code": 62, "dataId": 3, "value": 1 }],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Kensaki Touko",
+        "nickname": "",
+        "note": "",
+        "profile": "Always underground doing research on life reanimation"
+    },
+    {
+        "id": 2,
+        "battlerName": "orikyara1_1",
+        "characterIndex": 7,
+        "characterName": "orikyarakabesiri",
+        "classId": 11,
+        "equips": [0, 0, 0, 6, 0],
+        "faceIndex": 0,
+        "faceName": "kuruerumi4",
+        "traits": [
+            { "code": 62, "dataId": 3, "value": 1 },
+            { "code": 43, "dataId": 23, "value": 1 }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "Kyaro",
+        "nickname": "",
+        "note": "",
+        "profile": "Always underground doing research on life reanimation"
+    }
+]

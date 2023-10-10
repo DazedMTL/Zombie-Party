@@ -1,0 +1,654 @@
+[
+    null,
+    {
+        "id": 1,
+        "atypeId": 5,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 128,
+        "name": "Wooden Shield",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 2,
+        "atypeId": 1,
+        "description": "",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 130,
+        "name": "Cloth Hat",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 3,
+        "atypeId": 1,
+        "description": "",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "Cloth Armor",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 4,
+        "atypeId": 1,
+        "description": "",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "Wooden Ring",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            5,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 5,
+        "atypeId": 3,
+        "description": "It becomes warm.",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 149,
+        "name": "Muffler",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 6,
+        "atypeId": 3,
+        "description": "Touko's jersey I don't care about the appearance as long as it's easy\nto move in.",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "Everyday clothes",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 7,
+        "atypeId": 5,
+        "description": "A shield made with all their soul",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "iconIndex": 128,
+        "name": "Soul Shield",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 6000
+    },
+    {
+        "id": 8,
+        "atypeId": 3,
+        "description": "Honorable knight wearing armor Cool",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 137,
+        "name": "Hero's Armor",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            25,
+            10,
+            0,
+            5,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 9,
+        "atypeId": 3,
+        "description": "The soldiers are all wearing this.",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "Chain Mail",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            15,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 10,
+        "atypeId": 3,
+        "description": "Somehow my luck is improving. What a handmade (thing).",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 146,
+        "name": "Princess's Charm",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            10
+        ],
+        "price": 0
+    },
+    {
+        "id": 11,
+        "atypeId": 3,
+        "description": "For those who prefer black over white armor",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "Black Armor",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            22,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 12,
+        "atypeId": 3,
+        "description": "With a special material, you can protect yourself from magical\nattacks.",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "Magic Armor",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            35,
+            0,
+            20,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 13,
+        "atypeId": 3,
+        "description": "The gloves that I always wear for research purposes. It's better to\nhave them than not.",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 142,
+        "name": "Rubber Gloves",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 14,
+        "atypeId": 3,
+        "description": "They can perform first aid.",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 43,
+                "dataId": 24,
+                "value": 1
+            }
+        ],
+        "iconIndex": 142,
+        "name": "Narumi's Nurse Gloves",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 15,
+        "atypeId": 3,
+        "description": "Learning the dance of seduction",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 43,
+                "dataId": 27,
+                "value": 1
+            }
+        ],
+        "iconIndex": 133,
+        "name": "Himeka's Beret",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 16,
+        "atypeId": 3,
+        "description": "When they're bouncing around, their defense power increases.",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 128,
+        "name": "Puni Puni Shield",
+        "note": "",
+        "params": [
+            10,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 17,
+        "atypeId": 3,
+        "description": "Please don't leave any marks!",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 128,
+        "name": "Silver Shield",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 18,
+        "atypeId": 3,
+        "description": "It's too suspicious, but the amount of money obtained after battles\ndoubles.",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 64,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "iconIndex": 146,
+        "name": "Lucky Charm Bracelet",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 19,
+        "atypeId": 3,
+        "description": "The princess's custom-made armor, which she prefers in purple color.\nThey are using good materials.",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "Purple Armor",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 20,
+        "atypeId": 3,
+        "description": "",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 146,
+        "name": "Defense",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            18,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 21,
+        "atypeId": 3,
+        "description": "They can use their maternal instincts.",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 43,
+                "dataId": 28,
+                "value": 1
+            }
+        ],
+        "iconIndex": 133,
+        "name": "Satomi's Earrings",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 22,
+        "atypeId": 3,
+        "description": "Touko's everyday outfit includes a protective gear that enhances\npolice vision.",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 43,
+                "dataId": 29,
+                "value": 1
+            }
+        ],
+        "iconIndex": 135,
+        "name": "Kaoru's Vest",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 23,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    }
+]

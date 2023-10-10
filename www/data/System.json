@@ -1,0 +1,626 @@
+{
+    "airship": {
+        "bgm": {
+            "name": "Ship3",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 20
+        },
+        "characterIndex": 3,
+        "characterName": "Vehicle",
+        "startMapId": 0,
+        "startX": 0,
+        "startY": 0
+    },
+    "armorTypes": [
+        "",
+        "General Armor",
+        "Magic Armor",
+        "Light Armor",
+        "Heavy Armor",
+        "Shield",
+        "Big Shield"
+    ],
+    "attackMotions": [
+        {
+            "type": 0,
+            "weaponImageId": 0
+        },
+        {
+            "type": 1,
+            "weaponImageId": 1
+        },
+        {
+            "type": 1,
+            "weaponImageId": 2
+        },
+        {
+            "type": 1,
+            "weaponImageId": 3
+        },
+        {
+            "type": 1,
+            "weaponImageId": 4
+        },
+        {
+            "type": 1,
+            "weaponImageId": 5
+        },
+        {
+            "type": 1,
+            "weaponImageId": 6
+        },
+        {
+            "type": 2,
+            "weaponImageId": 7
+        },
+        {
+            "type": 2,
+            "weaponImageId": 8
+        },
+        {
+            "type": 2,
+            "weaponImageId": 9
+        },
+        {
+            "type": 0,
+            "weaponImageId": 10
+        },
+        {
+            "type": 0,
+            "weaponImageId": 11
+        },
+        {
+            "type": 0,
+            "weaponImageId": 12
+        }
+    ],
+    "battleBgm": {
+        "name": "08_Sacrificial ritual",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 50
+    },
+    "battleback1Name": "Ruins1",
+    "battleback2Name": "",
+    "battlerHue": 0,
+    "battlerName": "Dragon",
+    "boat": {
+        "bgm": {
+            "name": "Ship1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 20
+        },
+        "characterIndex": 0,
+        "characterName": "Vehicle",
+        "startMapId": 0,
+        "startX": 0,
+        "startY": 0
+    },
+    "currencyUnit": "円",
+    "defeatMe": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 50
+    },
+    "editMapId": 17,
+    "elements": [
+        "",
+        "物理",
+        "ファイア",
+        "アイス",
+        "サンダー",
+        "ウォーター",
+        "アース",
+        "ウィンド",
+        "ライト",
+        "ダークネス"
+    ],
+    "equipTypes": [
+        "",
+        "Weapon",
+        "Gloves",
+        "Hat",
+        "Armor",
+        "Accessory"
+    ],
+    "gameTitle": "Zombie Party",
+    "gameoverMe": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 20
+    },
+    "locale": "en_US",
+    "magicSkills": [
+        1
+    ],
+    "menuCommands": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+    ],
+    "optDisplayTp": true,
+    "optDrawTitle": false,
+    "optExtraExp": true,
+    "optFloorDeath": false,
+    "optFollowers": true,
+    "optSideView": true,
+    "optSlipDeath": false,
+    "optTransparent": false,
+    "partyMembers": [
+        1
+    ],
+    "ship": {
+        "bgm": {
+            "name": "Ship2",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 20
+        },
+        "characterIndex": 1,
+        "characterName": "Vehicle",
+        "startMapId": 0,
+        "startX": 0,
+        "startY": 0
+    },
+    "skillTypes": [
+        "",
+        "Magic",
+        "Special",
+        "Special move"
+    ],
+    "sounds": [
+        {
+            "name": "cursor-01",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "kettei-01",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "cancel-01",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Buzzer1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Equip2",
+            "pan": 0,
+            "pitch": 120,
+            "volume": 55
+        },
+        {
+            "name": "save-01",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Load",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "battle-start",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Run",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Attack3",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Damage5",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Collapse1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Collapse2",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Collapse3",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "damage01",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Earth3",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Recovery",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Miss",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Evasion1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Evasion2",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Reflection",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Shop1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Item3",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        },
+        {
+            "name": "Item3",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 50
+        }
+    ],
+    "startMapId": 1,
+    "startX": 5,
+    "startY": 4,
+    "switches": [
+        "",
+        "OP1",
+        "小さいハンマーを取る",
+        "静香犯し",
+        "武器を探す",
+        "武器を選んだ",
+        "メスガキを犯した",
+        "看護婦を討伐",
+        "公園のガキ討伐",
+        "メスガキ対面",
+        "メスガキ軍団１",
+        "メスガキ軍団２",
+        "メスガキ軍団３",
+        "石壊れる",
+        "デブと戦った",
+        "静香犯し２",
+        "メスガキ軍団４",
+        "メスガキ軍団消滅",
+        "メスガキ討伐",
+        "病院の鍵を開けられなかった",
+        "メスガキ軍団消滅２",
+        "飲食イベント１",
+        "お姉さん討伐",
+        "お姉さん犯し",
+        "お姉さん犯し２",
+        "婦警犯し",
+        "婦警倒す",
+        "抗生物質を見つける",
+        "看護婦犯し２",
+        "飲食店で目隠れと",
+        "飲食店から出る",
+        "婦警犯し２",
+        "マンションへ向かう目隠れ",
+        "飲食店へ向かう目隠れ",
+        "マンション開通",
+        "目隠れと対面",
+        "目隠れ討伐",
+        "目隠れ犯し",
+        "回想１",
+        "回想２",
+        "ED",
+        "正面",
+        "斜視",
+        "白目",
+        "ちんぽケース１",
+        "ちんぽケース終わり",
+        "ガチャ短縮",
+        "手紙を見る",
+        "サキュバス終わり",
+        "キマイラの肉を受け取る",
+        "アイタナ寝てる",
+        "キマイラの肉を届ける",
+        "肉を届けてロールのもとへ",
+        "酒を取る",
+        "村人化け物を見る",
+        "酒もってきて～",
+        "大変村人到着",
+        "ロール消える",
+        "ロール現れる村人の声で",
+        "家を飛び出す",
+        "復習の魔物全滅",
+        "復習の魔物全滅２",
+        "夜でも輸送屋がいる",
+        "",
+        "",
+        "",
+        "",
+        "ディールの森の扉が開く",
+        "洞窟で死ぬ",
+        "輸送屋感謝",
+        "そして街へ",
+        "ストーリーロール",
+        "回想ルームが出る",
+        "ロール消えるラスト",
+        "ED",
+        "サキュバス打倒s",
+        "キャラが出てくる３",
+        "キャラが出てくる２",
+        "モンスターに負ける",
+        "キャラが出てくる",
+        "拷問部屋"
+    ],
+    "terms": {
+        "basic": [
+            "Level",
+            "Lv",
+            "HP",
+            "HP",
+            "MP",
+            "MP",
+            "TP",
+            "TP",
+            "EXP",
+            "EXP"
+        ],
+        "commands": [
+            "Fight",
+            "Escape",
+            "Attack",
+            "Defense",
+            "Item",
+            "Skill",
+            "Equipment",
+            "Status",
+            "Sort",
+            "Save",
+            "Exit",
+            "Option",
+            "Weapon",
+            "Armor",
+            "Important thing",
+            "Equipment",
+            "Optimal Equipment",
+            "Remove all",
+            "New Game",
+            "Continue",
+            null,
+            "Go to Title",
+            "Stop",
+            null,
+            "Buy",
+            "Sell"
+        ],
+        "params": [
+            "Maximum HP",
+            "Maximum MP",
+            "Attack Power",
+            "Defense Power",
+            "Magic Attack",
+            "Magic Defense",
+            "Agility",
+            "Luck",
+            "Accuracy",
+            "Evasion Rate"
+        ],
+        "messages": {
+            "actionFailure": "Failure! %1 evaded it",
+            "actorDamage": "%1 takes %2 damage!",
+            "actorDrain": "%1 was drained of %2 %3!",
+            "actorGain": "%1 gained %2 %3!",
+            "actorLoss": "%1 lost %2 %3!",
+            "actorNoDamage": "%1 has not taken any damage!",
+            "actorNoHit": "Miss! %1 evaded the attack!",
+            "actorRecovery": "%1 Restored %2 %3!",
+            "alwaysDash": "Constant Dash",
+            "bgmVolume": "BGM volume",
+            "bgsVolume": "BGS volume",
+            "buffAdd": "%1 has strengthened %2!",
+            "buffRemove": "%1's %2 status has returned to normal!",
+            "commandRemember": "Command Memory",
+            "counterAttack": "Counterattack by %1!",
+            "criticalToActor": "Devastating blow!",
+            "criticalToEnemy": "Critical hit!",
+            "debuffAdd": "%2 of %1 has been weakened!",
+            "defeat": "%1 has been defeated",
+            "emerge": "%1 has appeared!",
+            "enemyDamage": "%1 takes %2 damage!",
+            "enemyDrain": "%1 was drained of %2 %3!",
+            "enemyGain": "%1 gained %2 %3!",
+            "enemyLoss": "%1 lost points, %2 %3!",
+            "enemyNoDamage": "%1 has not taken any damage!",
+            "enemyNoHit": "Miss! %1 evaded the attack!",
+            "enemyRecovery": "%1 Restored %2 %3!",
+            "escapeFailure": "I've been surrounded!",
+            "escapeStart": "%1 has escaped!",
+            "evasion": "%1 evades the attack!",
+            "expNext": "To Next %1",
+            "expTotal": "Current experience points: %1",
+            "file": "File",
+            "levelUp": "Level up! %1 has reached %2 %3!",
+            "loadMessage": "Road Message",
+            "magicEvasion": "%1 evaded the magic!",
+            "magicReflection": "%1 reflected the magic!",
+            "meVolume": "ME Volume",
+            "obtainExp": "%1 %2 Experience Points Gained!",
+            "obtainGold": "Obtained!",
+            "obtainItem": "Acquired %1!",
+            "obtainSkill": "Learned %1!",
+            "partyName": "%1 and others",
+            "possession": "Number of possessions",
+            "preemptive": "First strike!",
+            "saveMessage": "Save Message",
+            "seVolume": "SE Volume",
+            "substitute": "%1 Take my place, %2!",
+            "surprise": "%1 I was caught off guard!",
+            "useItem": "Used %2!",
+            "victory": "%1 has won!"
+        }
+    },
+    "testBattlers": [
+        {
+            "actorId": 2,
+            "equips": [
+                1,
+                0,
+                0,
+                6,
+                0
+            ],
+            "level": 3
+        },
+        {
+            "actorId": 0,
+            "equips": [
+                7,
+                0,
+                0,
+                9,
+                0
+            ],
+            "level": 99
+        },
+        {
+            "actorId": 0,
+            "equips": [
+                8,
+                7,
+                0,
+                8,
+                10
+            ],
+            "level": 99
+        },
+        {
+            "actorId": 0,
+            "equips": [
+                11,
+                0,
+                0,
+                9,
+                0
+            ],
+            "level": 99
+        }
+    ],
+    "testTroopId": 8,
+    "title1Name": "サムネ",
+    "title2Name": "",
+    "titleBgm": {
+        "name": "05Go forward",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 55
+    },
+    "variables": [
+        "",
+        "HP",
+        "MAX HP",
+        "Gacha Gacha",
+        "Searching for facilities",
+        "First Offense",
+        "Title \"Subjugation of Henchmen",
+        "Investigating the police box",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "versionId": 17792291,
+    "victoryMe": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 40
+    },
+    "weaponTypes": [
+        "",
+        "ダガー",
+        "ソード",
+        "フレイル",
+        "斧",
+        "鞭",
+        "杖",
+        "弓",
+        "クロスボウ",
+        "銃",
+        "爪",
+        "グローブ",
+        "槍"
+    ],
+    "windowTone": [
+        -204,
+        -204,
+        -221,
+        0
+    ],
+    "hasEncryptedImages": true,
+    "hasEncryptedAudio": true,
+    "encryptionKey": "0b45a565f02b0b7afb14187fced215b8"
+}

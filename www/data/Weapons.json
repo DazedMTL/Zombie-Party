@@ -1,0 +1,556 @@
+[
+    null,
+    {
+        "id": 1,
+        "animationId": 1,
+        "description": "The wooden stick prepared from the laboratory. It's reasonably sturdy,\nbut not very strong.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 110,
+        "name": "Wooden Stick",
+        "note": "",
+        "params": [
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500,
+        "wtypeId": 6
+    },
+    {
+        "id": 2,
+        "animationId": 2,
+        "description": "A bat made of iron. It seems like it could destroy things like wooden\nboards.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 110,
+        "name": "Bat",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500,
+        "wtypeId": 6
+    },
+    {
+        "id": 3,
+        "animationId": 1,
+        "description": "It's just made of wood, so it only has attack power.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 101,
+        "name": "Wooden Staff",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500,
+        "wtypeId": 6
+    },
+    {
+        "id": 4,
+        "animationId": 11,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 102,
+        "name": "Wooden Bow",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500,
+        "wtypeId": 7
+    },
+    {
+        "id": 5,
+        "animationId": 6,
+        "description": "Made by processing glass.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "Glass Sword",
+        "note": "",
+        "params": [
+            0,
+            0,
+            15,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 2
+    },
+    {
+        "id": 6,
+        "animationId": 111,
+        "description": "The policewoman had a pistol in her possession. While equipped, she\ncan use a special skill.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 43,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 44,
+                "dataId": 23,
+                "value": 1
+            },
+            {
+                "code": 44,
+                "dataId": 26,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 30,
+                "value": 1
+            }
+        ],
+        "iconIndex": 104,
+        "name": "Handgun",
+        "note": "",
+        "params": [
+            0,
+            0,
+            18,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 9
+    },
+    {
+        "id": 7,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 107,
+        "name": "Iron Spear",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500,
+        "wtypeId": 12
+    },
+    {
+        "id": 8,
+        "animationId": 6,
+        "description": "Lilliana the Female Knight's Weapon Strong! As expected!",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 34,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "iconIndex": 97,
+        "name": "Freeza Sword",
+        "note": "",
+        "params": [
+            0,
+            0,
+            45,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 50000,
+        "wtypeId": 2
+    },
+    {
+        "id": 9,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "Black Sword",
+        "note": "",
+        "params": [
+            0,
+            0,
+            30,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 2
+    },
+    {
+        "id": 10,
+        "animationId": 6,
+        "description": "Aitana's initial equipment Shiny shiny",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 107,
+        "name": "New Spear",
+        "note": "",
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 5,
+        "wtypeId": 12
+    },
+    {
+        "id": 11,
+        "animationId": 6,
+        "description": "Daniela's weapon is a large axe made of high-quality material that is\nboth lightweight and resistant to damage.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 99,
+        "name": "Gun Axe",
+        "note": "",
+        "params": [
+            0,
+            0,
+            30,
+            5,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 4
+    },
+    {
+        "id": 12,
+        "animationId": 1,
+        "description": "A spear that increases speed a little bit.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 107,
+        "name": "Slash Spear",
+        "note": "",
+        "params": [
+            0,
+            0,
+            30,
+            0,
+            5,
+            0,
+            10,
+            0
+        ],
+        "price": 150,
+        "wtypeId": 12
+    },
+    {
+        "id": 13,
+        "animationId": 1,
+        "description": "It's not a spear, but it's still a long object so you can hit with it.\nFor those of you who want to use magic.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 107,
+        "name": "Steel Staff",
+        "note": "",
+        "params": [
+            0,
+            0,
+            25,
+            0,
+            15,
+            0,
+            0,
+            0
+        ],
+        "price": 150,
+        "wtypeId": 12
+    },
+    {
+        "id": 14,
+        "animationId": 7,
+        "description": "Shining spear with silver foil Magic power also increased",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 107,
+        "name": "Platinum Spear",
+        "note": "",
+        "params": [
+            0,
+            0,
+            50,
+            0,
+            50,
+            0,
+            0,
+            0
+        ],
+        "price": 3000,
+        "wtypeId": 12
+    },
+    {
+        "id": 15,
+        "animationId": 6,
+        "description": "It's not that going out is a good thing, but I'm weak because I'm\nempty inside.",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "Big Sword",
+        "note": "",
+        "params": [
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 2
+    },
+    {
+        "id": 16,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    }
+]

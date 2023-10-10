@@ -1,0 +1,982 @@
+[
+    null,
+    {
+        "id": 1,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "HP recovers 20 times.",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 20
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Emergency food",
+        "note": "",
+        "occasion": 0,
+        "price": 5,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 2,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "MP5 Recovery",
+        "effects": [
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 5
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Water",
+        "note": "",
+        "occasion": 0,
+        "price": 8,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 3,
+        "animationId": 45,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Cure all abnormal conditions and restore 500 HP.",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 4,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 5,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 6,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 9,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 10,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Universal Medicine",
+        "note": "",
+        "occasion": 0,
+        "price": 10,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 4,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "b.mhp / 2",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Seems like it could be useful somewhere.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 195,
+        "itypeId": 2,
+        "name": "Key 2",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 5,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Seems like it could be useful somewhere.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 195,
+        "itypeId": 2,
+        "name": "Key 3",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 6,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Seems like it could be useful somewhere.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 195,
+        "itypeId": 2,
+        "name": "Key 1",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 7,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Attack power increased by 1.",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 2,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 34,
+        "itypeId": 1,
+        "name": "Water of Strength",
+        "note": "",
+        "occasion": 2,
+        "price": 250,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 8,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Defense +1",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 3,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 35,
+        "itypeId": 1,
+        "name": "Water of Protection",
+        "note": "",
+        "occasion": 2,
+        "price": 250,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 9,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Maximum HP +20",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 0,
+                "value1": 20,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 32,
+        "itypeId": 1,
+        "name": "Body Water",
+        "note": "",
+        "occasion": 2,
+        "price": 250,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 10,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Magic power +1 MP does not recover.",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 4,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 36,
+        "itypeId": 1,
+        "name": "Magic Water",
+        "note": "",
+        "occasion": 2,
+        "price": 250,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 11,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Can be exchanged for equipment and items.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 191,
+        "itypeId": 2,
+        "name": "Premium Exchange Ticket",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 12,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Level +1. The level of everyone will increase.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 1,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 162,
+        "itypeId": 1,
+        "name": "Water of Level",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 13,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "HP recovers 1000 times.",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 1000
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Hi-Potion",
+        "note": "",
+        "occasion": 0,
+        "price": 25,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 14,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "MP300 Recovery",
+        "effects": [
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 300
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "High Mana Potion",
+        "note": "",
+        "occasion": 0,
+        "price": 50,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 15,
+        "animationId": 45,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Cure the poison.",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 4,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 181,
+        "itypeId": 1,
+        "name": "Antidote",
+        "note": "",
+        "occasion": 0,
+        "price": 10,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 16,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 1,
+            "formula": "10000",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "HP recovers 100 times.",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 100
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Medicinal Herb",
+        "note": "",
+        "occasion": 0,
+        "price": 100,
+        "repeats": 1,
+        "scope": 8,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 17,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "When used, the clattering motion of the gacha disappears and items\nimmediately appear.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 2,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 306,
+        "itypeId": 1,
+        "name": "Gacha Time Reduction Item",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 18,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "MP20 Recovery",
+        "effects": [
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 20
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Sports Drink",
+        "note": "",
+        "occasion": 0,
+        "price": 20,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 19,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "HP recovers 50 times.",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 50
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Oden",
+        "note": "",
+        "occasion": 0,
+        "price": 25,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 20,
+        "animationId": 42,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "HP recovers by 50MP40.",
+        "effects": [
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 40
+            },
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 50
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Energy Drink",
+        "note": "",
+        "occasion": 0,
+        "price": 50,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 21,
+        "animationId": 42,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Fully recover and cure abnormal status.",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 4,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 5,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 6,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 9,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 10,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Mysterious Medicine",
+        "note": "",
+        "occasion": 0,
+        "price": 200,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 22,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "The request for subjugating a succubus is written. It says that she\nresides in a cave to the northwest of the town, which can only be\nentered at night.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 188,
+        "itypeId": 2,
+        "name": "Letter from the Town",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 23,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Item(s) owned by a high school girl who suddenly barged into my house.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 3,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Shizuka's Student ID",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 24,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Possessions of a nurse who was wandering outside.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 4,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Narumi's driver's license",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 25,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Possessions of the girl who was commanding the boys.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 5,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Himika's Student ID",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 26,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Possessions of a lady who was rummaging\nthrough the refrigerator of a restaurant",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 6,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Satomi's driver's license",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 27,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Possessions of a policewoman who lacked\nintelligence and couldn't shoot a handgun.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 7,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Kaoru's Police Notebook",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 28,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Item owned by a female high school student on the rooftop of an\napartment building.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 8,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Anzu's Student ID",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    }
+]
